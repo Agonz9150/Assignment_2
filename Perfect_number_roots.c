@@ -14,8 +14,8 @@
 |	___________________________________________________
 |
 |    Language:C
-| Compile/Run:
-|
+| Compile/Run: gcc Perfect_number_roots.c -lm
+|              ./a.out
 |+--------------------------------------------------------------
 | Description: This program finds perfect numbers within a pre-
 |              determined range, and for every perfect number it 
